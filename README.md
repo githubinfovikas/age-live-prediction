@@ -1,4 +1,4 @@
-<h1 align="center">Age Calculator</h1>
+<h1 align="center">Age Live Prediction</h1>
 
    <div align="center">
         <a href="https://github.com/U7P4L-IN/Age-Calculator/stargazers/">
@@ -14,6 +14,7 @@
     </div>
 
   <div align="center">
+        </a>
         <a href="https://github.com/U7P4L-IN/Age-Calculator/pull">
         <img src="https://custom-icon-badges.demolab.com/github/issues-pr/U7P4L-IN/Age-Calculator?&label=Pull%20Requests&labelColor=302d41&color=ddb6f2&logoColor=d9e0ee&logo=git-pull-request&style=for-the-badge" alt="PRs"/>
         </a>

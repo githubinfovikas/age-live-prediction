@@ -10,10 +10,9 @@
         <a href="https://github.com/U7P4L-IN/Age-Calculator/issues">
         <img src="https://custom-icon-badges.demolab.com/github/issues/U7P4L-IN/Age-Calculator?label=Issues&labelColor=302d41&color=f5a97f&logoColor=d9e0ee&logo=issue&style=for-the-badge" alt="Issues"/>
          </a>
-
     </div>
 
-  <div align="center">
+<div align="center">
         </a>
         <a href="https://github.com/U7P4L-IN/Age-Calculator/pull">
         <img src="https://custom-icon-badges.demolab.com/github/issues-pr/U7P4L-IN/Age-Calculator?&label=Pull%20Requests&labelColor=302d41&color=ddb6f2&logoColor=d9e0ee&logo=git-pull-request&style=for-the-badge" alt="PRs"/>

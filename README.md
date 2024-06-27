@@ -13,7 +13,7 @@
     </div>
 <div align="center">
         </a>
-        <a href="https://github.com/githubinfovikas/age-live-prediction/pull">
+        <a href="https://github.com/githubinfovikas/age-live-prediction/push">
         <img src="https://custom-icon-badges.demolab.com/github/issues-pr/githubinfovikas/age-live-prediction?&label=Pull%20Requests&labelColor=302d41&color=ddb6f2&logoColor=d9e0ee&logo=git-pull-request&style=for-the-badge" alt="PRs"/>
         </a>
         <a href="https://github.com/githubinfovikas/age-live-prediction/archive/refs/heads/master.zip">

@@ -11,7 +11,6 @@
         <img src="https://custom-icon-badges.demolab.com/github/issues/U7P4L-IN/Age-Calculator?label=Issues&labelColor=302d41&color=f5a97f&logoColor=d9e0ee&logo=issue&style=for-the-badge" alt="Issues"/>
          </a>
     </div>
-
 <div align="center">
         </a>
         <a href="https://github.com/U7P4L-IN/Age-Calculator/pull">
@@ -19,9 +18,7 @@
         </a>
         <a href="https://github.com/U7P4L-IN/Age-Calculator/archive/refs/heads/master.zip">
         <img src="https://custom-icon-badges.demolab.com/github/languages/code-size/U7P4L-IN/Age-Calculator?label=Download&logo=download&labelColor=302d41&color=b7bdf8&logoColor=d9e0ee&style=for-the-badge" alt="Download .zip">
-        
-        </a>
-  </div>
+</div>
 
   </br>
 

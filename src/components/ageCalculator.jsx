@@ -82,7 +82,7 @@ const AgeCalculator = () => {
 
   return (
     <div className="container w-full md:w-1/3 flex flex-col mx-auto p-4">
-      <h1 className="text-4xl font-bold mb-4">Age Live Prediction</h1>
+      <h1 className="text-4xl font-bold mb-4">Age Live Prediction✨</h1>
       <label htmlFor="dob" className="block mb-2">
         Enter your Date of Birth:
       </label>
